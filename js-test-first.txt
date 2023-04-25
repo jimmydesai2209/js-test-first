@@ -1,0 +1,31 @@
+1. It is operation to operates on operants and to call in future again and again.
+2.single line command in code.
+3.repaetative tast to be perform
+eg.
+
+var sum=0;
+if(i=0,i<=5,i++){
+sum=sum+2*i
+};
+
+is example of to sum of i for even numbers 
+
+4.Variable is we can say empty container in which we can store any value 
+so we can call it in function or code anytime.
+
+5. var numberOfStudents=25;
+
+6.two type data types in javascript
+(i)primitive
+(ii)special
+
+
+7.(i)typof
+(ii)!not
+
+8. square()=a2
+
+9.array of elements
+
+10.when thre is multiple values for one single variable or i say multiple properties for and single variable.
+
